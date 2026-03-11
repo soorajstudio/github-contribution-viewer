@@ -1,4 +1,4 @@
-# AIYOOO - Cyber-City GitHub Visualizer
+#Cyber-City GitHub Visualizer
 
 A web-based visualization tool that displays a user's GitHub contribution graph and transforms it into a **3D cyberpunk skyline city**.
 
